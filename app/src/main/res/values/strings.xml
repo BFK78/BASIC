@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BASIC</string>
+    <string name="formal">FORMAL</string>
+    <string name="unique">UNIQUE</string>
+    <string name="different">DIFFERENT</string>
+    <string name="title_activity_shopping_cart">ShoppingCartActivity</string>
+</resources>
